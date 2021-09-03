@@ -63,7 +63,7 @@
 @import url(../blocks/kaufman/table/__heading/_theme/table__heading_theme_dark.css);
 @import url(../blocks/kaufman/table/__text/table__text.css);
 @import url(../blocks/kaufman/table/__text/_theme/table__text_theme_dark.css);
-@import url(../blocks/kaufman/__triangle-pls/kaufman__triangle-plc.css);
+@import url(../blocks/kaufman/__triangle-plc/kaufman__triangle-plc.css);
 
 @import url(../blocks/resourses/resourses.css);
 @import url(../blocks/resourses/__logo-zone/resourses__logo-zone.css);
@@ -76,7 +76,7 @@
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__column/footer__column.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
-@import url(../blocks/footer/__social-icon/footer__social-icon.css); /*ничего нет :(*/
+/*@import url(../blocks/footer/__social-icon/footer__social-icon.css); ничего нет :(*/
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_info.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_social.css);
