@@ -7,3 +7,6 @@
 .cards__item:first-of-type {
   margin-left: 0;
 }
+.cards__item:nth-of-type(4n) {
+  margin-left: 0;
+}
