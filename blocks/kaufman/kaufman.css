@@ -3,5 +3,5 @@
   padding: 90px 0;
   overflow: hidden; /*скрыть треугольник*/
   position: relative;
-  z-index: -2;
+  z-index: 0;
 }
