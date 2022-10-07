@@ -1,7 +1,7 @@
 # Проект: Научиться учиться
 
 Проектв рамках обучения на Я.практикуме "Научиться учиться".
-(Ссылка на GH-Page)[https://avaveryu.github.io/how-to-learn/]
+[Ссылка на GH-Page](https://avaveryu.github.io/how-to-learn/)
 
 # Обзор проекта
 
