@@ -1,8 +1,32 @@
 .feynman__main-illustration {
-  width: 867px;
-  height: 637px;
+  max-width: 867px;
+  max-height: 637px;
   object-fit: cover;
   position: absolute;
   bottom: 0;
   left: 0;
+}
+@media screen and (max-width: 1290px) {
+  .feynman__main-illustration {
+    max-width: 700px;
+    max-height: 500px;
+  }
+}
+@media screen and (max-width: 680px) {
+  .feynman__main-illustration {
+    max-width: 500px;
+    max-height: 400px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .feynman__main-illustration {
+    max-width: 400px;
+    max-height: 250px;
+  }
+}
+@media screen and (max-width: 400px) {
+  .feynman__main-illustration {
+    max-width: 310px;
+    max-height: 200px;
+  }
 }

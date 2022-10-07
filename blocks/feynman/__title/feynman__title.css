@@ -8,3 +8,14 @@
   position: relative;
   margin: 0 auto;
 }
+@media screen and (max-width: 1030px) {
+  .feynman__title {
+    font-size: 60px;
+    max-width: 310px;
+  }
+}
+@media screen and (max-width: 420px) {
+  .feynman__title {
+    font-size: 40px;
+  }
+}

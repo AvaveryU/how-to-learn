@@ -7,3 +7,14 @@
   right: 0;
   z-index: -1;
 }
+@media screen and (max-width: 700px) {
+  .header__square-plc {
+    top: 80px;
+  }
+}
+@media screen and (max-width: 560px) {
+  .header__square-plc {
+    top: 100px;
+    right: -100px;
+  }
+}

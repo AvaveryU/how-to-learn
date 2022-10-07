@@ -3,5 +3,10 @@
   font-weight: normal;
   line-height: 34px;
   width: 80%;
-  min-width: 784px;
+  flex-basis: 785px;
+}
+@media screen and (max-width: 900px) {
+  .two-columns__main-text {
+    margin-left: 20px;
+  }
 }

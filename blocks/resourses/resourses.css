@@ -1,3 +1,8 @@
 .resources {
   margin: 100px auto 217px;
 }
+@media screen and (max-width: 630px) {
+  .resources {
+    margin: 40px auto 70px;
+  }
+}

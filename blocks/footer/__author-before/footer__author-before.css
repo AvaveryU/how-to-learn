@@ -1,0 +1,10 @@
+@media screen and (max-width: 600px) {
+  .footer__author-before {
+    display: block;
+  }
+}
+@media screen and (min-width: 600px) {
+  .footer__author-before {
+    display: none;
+  }
+}
