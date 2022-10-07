@@ -5,3 +5,13 @@
   min-height: 790px;
   width: 100%;
 }
+@media screen and (max-width: 680px) {
+  .feynman {
+    min-height: 700px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .feynman {
+    min-height: 500px;
+  }
+}

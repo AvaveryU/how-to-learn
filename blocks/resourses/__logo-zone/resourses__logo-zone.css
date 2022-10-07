@@ -1,7 +1,14 @@
 .resourses__logo-zone {
-  min-width: 1100px;
+  max-width: 1100px;
   margin: 80px auto 0;
   display: flex;
   flex-direction: row;
   justify-content: center;
+  flex-wrap: wrap;
+}
+@media screen and (max-width: 1100px) {
+  .resourses__logo-zone {
+    justify-content: space-around;
+    margin-top: 40px;
+  }
 }

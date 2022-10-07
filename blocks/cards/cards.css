@@ -2,5 +2,21 @@
   display: flex;
   margin: 0 auto;
   flex-wrap: wrap;
-  width: 920px;
+  max-width: 920px;
+}
+@media screen and (max-width: 1150px) {
+  .cards {
+    justify-content: space-around;
+  }
+}
+@media screen and (max-width: 750px) {
+  .cards {
+    justify-content: space-between;
+  }
+}
+@media screen and (max-width: 600px) {
+  .cards {
+    flex-direction: column;
+    align-items: center;
+  }
 }

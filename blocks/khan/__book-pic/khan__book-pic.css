@@ -4,3 +4,23 @@
   height: 608px;
   background-size: cover;
 }
+@media screen and (max-width: 800px) {
+  .khan__book-pic {
+    max-width: 500px;
+    max-height: 488px;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
+@media screen and (max-width: 560px) {
+  .khan__book-pic {
+    max-width: 400px;
+    max-height: 388px;
+  }
+}
+@media screen and (max-width: 460px) {
+  .khan__book-pic {
+    max-width: 300px;
+    max-height: 288px;
+  }
+}

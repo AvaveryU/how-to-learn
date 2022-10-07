@@ -3,3 +3,8 @@
   flex-direction: column;
   justify-content: space-between;
 }
+@media screen and (max-width: 1070px) {
+  .footer__column:nth-of-type(2n + 1) {
+    margin-right: 10px;
+  }
+}

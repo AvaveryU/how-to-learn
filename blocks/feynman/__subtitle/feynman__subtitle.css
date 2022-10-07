@@ -7,3 +7,9 @@
   position: relative;
   z-index: 2;
 }
+@media screen and (max-width: 1030px) {
+  .feynman__subtitle {
+    font-size: 28px;
+    margin-top: 20px;
+  }
+}

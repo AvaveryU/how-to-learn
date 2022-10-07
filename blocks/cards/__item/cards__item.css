@@ -10,3 +10,13 @@
 .cards__item:nth-of-type(4n) {
   margin-left: 0;
 }
+@media screen and (max-width: 1150px) {
+  .cards__item {
+    margin-left: 10px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .cards__item {
+    margin-left: 0;
+  }
+}
